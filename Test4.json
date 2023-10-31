@@ -1,0 +1,25 @@
+{
+  "filePath": "C:\\Users\\Юля\\Desktop\\записи пар\\іт\\IT_LAB_1\\Test4.json",
+  "tables": {
+    "table": {
+      "name": "table",
+      "rows": [
+        {
+          "elements": {
+            "intValue": {
+              "value": "6",
+              "column": "intValue"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "intValue": {
+          "type": "INT",
+          "name": "intValue",
+          "nullAllowed": true
+        }
+      }
+    }
+  }
+}

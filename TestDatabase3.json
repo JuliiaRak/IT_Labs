@@ -1,0 +1,104 @@
+{
+  "filePath": "C:\\Users\\Юля\\Desktop\\записи пар\\іт\\IT_LAB_1\\TestDatabase3.json",
+  "tables": {
+    "table3": {
+      "name": "table3",
+      "rows": [
+        {
+          "elements": {
+            "date": {
+              "value": "2003-03-16",
+              "column": "date"
+            },
+            "int": {
+              "value": "6",
+              "column": "int"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "date": {
+          "type": "DATE",
+          "name": "date",
+          "nullAllowed": true
+        },
+        "int": {
+          "type": "INT",
+          "name": "int",
+          "nullAllowed": true
+        }
+      }
+    },
+    "table1": {
+      "name": "table1",
+      "rows": [
+        {
+          "elements": {
+            "stringValue": {
+              "value": "Hello",
+              "column": "strValue"
+            },
+            "charValue": {
+              "value": "H",
+              "column": "charValue"
+            },
+            "intValue": {
+              "value": "5",
+              "column": "intValue"
+            }
+          }
+        },
+        {
+          "elements": {
+            "stringValue": {
+              "value": "World",
+              "column": "strValue"
+            },
+            "charValue": {
+              "value": "w",
+              "column": "charValue"
+            },
+            "intValue": {
+              "value": "100",
+              "column": "intValue"
+            }
+          }
+        },
+        {
+          "elements": {
+            "stringValue": {
+              "value": "Julia",
+              "column": "strValue"
+            },
+            "charValue": {
+              "value": "J",
+              "column": "charValue"
+            },
+            "intValue": {
+              "value": "150",
+              "column": "intValue"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "stringValue": {
+          "type": "STR",
+          "name": "stringValue",
+          "nullAllowed": true
+        },
+        "charValue": {
+          "type": "CHAR",
+          "name": "charValue",
+          "nullAllowed": true
+        },
+        "intValue": {
+          "type": "INT",
+          "name": "intValue",
+          "nullAllowed": true
+        }
+      }
+    }
+  }
+}

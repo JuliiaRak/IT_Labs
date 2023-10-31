@@ -1,0 +1,34 @@
+{
+  "filePath": "C:\\Users\\Юля\\Desktop\\записи пар\\іт\\IT_LAB_1\\Test.json",
+  "tables": {
+    "table": {
+      "name": "table",
+      "rows": [
+        {
+          "elements": {
+            "date": {
+              "value": "2003-03-16",
+              "column": "date"
+            },
+            "int": {
+              "value": "5",
+              "column": "int"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "date": {
+          "type": "DATE",
+          "name": "date",
+          "nullAllowed": true
+        },
+        "int": {
+          "type": "INT",
+          "name": "int",
+          "nullAllowed": true
+        }
+      }
+    }
+  }
+}
